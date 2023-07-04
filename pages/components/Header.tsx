@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 function Header(){
+  
     return(
         <header className="text-gray-400 bg-gray-900 body-font">
   <div className="container mx-auto flex flex-wrap p-3 flex-col md:flex-row items-center">
@@ -12,7 +13,7 @@ function Header(){
       <a className="mr-5 hover:text-white cursor-pointer">About</a>
       <a className="mr-5 hover:text-white cursor-pointer" href="#skill">Skills</a>
       <a className="mr-5 hover:text-white cursor-pointer" href="#project">Projects</a>
-      <a className="mr-5 hover:text-white cursor-pointer">Resume</a> 
+      <a className="mr-5 hover:text-white cursor-pointer" href="https://drive.google.com/file/d/11KNbLi1YKx_B9k1lYithc06tPJRWYV6B/view?pli=1" target="_blank">Resume</a> 
     </nav>
     
   </div>

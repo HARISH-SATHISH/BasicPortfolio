@@ -14,7 +14,7 @@ function Hero(){
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">HI,There welcome to my site
       </h1>
-      <p className="mb-8 leading-relaxed">Im Harish fullstack web Developer.</p>
+      <p className="mb-8 leading-relaxed"> I'm a developer skilled in C, Java, Python, and full-stack web development. I excel at creating efficient code and delivering seamless user experiences. With expertise in both backend and frontend technologies, I bring innovative solutions to projects. My portfolio showcases examples of my work, demonstrating my ability to meet deadlines and collaborate effectively. Let's discuss how I can bring your ideas to life and create something amazing together.</p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-indigo-500 border-0 h-fit p-2 w-fit focus:outline-none hover:bg-indigo-600 rounded-full text-4xl items-center"><TiSocialLinkedinCircular/></button>
         <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 p-2  h-fit w-fit focus:outline-none hover:bg-gray-700 hover:text-white rounded-full text-4xl items-center"><AiFillGithub/></button>
